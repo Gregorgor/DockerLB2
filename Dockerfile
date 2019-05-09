@@ -62,6 +62,6 @@ EXPOSE 80
 
 ENTRYPOINT [ "/run.sh" ]
 CMD ["phpmyadmin"]
-#Source Repository
-#Github
-#phpmyadmin/docker
+Source Repository
+Github
+phpmyadmin/docker
